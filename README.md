@@ -46,6 +46,7 @@ Start by generating a basic video to understand default behavior.
 **Example:**
 *A dog playing in the park.*
 
+https://app.runwayml.com/creation/320fd592-1d62-4b8d-a19f-2fa3d661f991 (Runway AI)
 ---
 
 #### 3. Refine the Prompts with Details:
@@ -55,6 +56,7 @@ Add contextual elements such as actions, environment, and object characteristics
 **Example:**
 *A golden retriever happily running through a green park on a sunny afternoon, chasing a frisbee thrown by a young boy near a tree.*
 
+https://app.runwayml.com/creation/5efea80e-3f5b-41af-a7b0-41ff42cb539e (Runway AI)
 ---
 
 #### 4. Add Motion and Temporal Cues:
@@ -64,6 +66,7 @@ Incorporate cinematic techniques—motion, timing, transitions, and camera movem
 **Example:**
 *A slow-motion video of a golden retriever leaping into the air to catch a frisbee in a sunlit park, with the camera panning around as the dog lands and wags its tail.*
 
+https://app.runwayml.com/creation/b680921d-13d8-4d2d-b310-aec713f43aa7 (Runway AI)
 ---
 
 #### 5. Experiment with Video Styles:
@@ -77,6 +80,9 @@ Use prompts that explore different formats such as:
 **Example:**
 *An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd of people.*
 
+**https://github.com/user-attachments/assets/ac7fdabb-bc61-484c-97bb-706d8562eaf0  (Pictory AI)**
+
+
 ---
 
 #### 6. Iterate and Adjust:
@@ -89,6 +95,10 @@ Analyze generated videos, refine the prompt to improve:
 
 **Refined Prompt Example:**
 *A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene.*
+
+
+**https://github.com/user-attachments/assets/36d9191a-fd95-49d0-8d55-10d39b0af43e (Pictory AI)**
+
 
 ---
 
